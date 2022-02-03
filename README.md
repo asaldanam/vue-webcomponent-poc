@@ -1,5 +1,7 @@
 # vue-webcomponent-poc
 
+A simple webcomponent made with vue CLI
+
 ## Project setup
 ```
 yarn install
